@@ -42,7 +42,7 @@ async def _human_time_duration(seconds):
     return ', '.join(parts)
 
 
-KYY_IMG = "https://telegra.ph/file/2b610c918dec590d2777b.jpg"
+KYY_IMG = "https://telegra.ph/file/d2c2d83613e6c73236ba1.jpg"
 
 
 @app.on_message(filters.command(["alive", "alive@Tg_Vc_00_Bot"]))
@@ -63,7 +63,7 @@ async def alive(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "sᴜᴘᴘᴏʀᴛ", url=f"t.me/{GROUP}"
+                        "sᴜᴘᴘᴏʀᴛ", url=f"t.me/+JQJaTXJKKG9kZjk1"
                     ),
                     InlineKeyboardButton(
                         "ᴜᴘᴅᴀᴛᴇs", url=f"t.me/{CHANNEL}"
